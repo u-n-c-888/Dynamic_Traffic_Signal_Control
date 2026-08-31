@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# YOLO model weights are downloaded automatically.
+*.pt
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
